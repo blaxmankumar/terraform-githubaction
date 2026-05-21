@@ -8,4 +8,4 @@ instance_type = "t3.micro"
 
 ami_id = "ami-091138d0f0d41ff90"
 
-bucket_name = "blaxman-devops-bucket-999"
+bucket_name = "blaxman-devops-bucket0406"
